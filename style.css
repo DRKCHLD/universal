@@ -1,0 +1,749 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Encode Sans Semi Expanded';
+}
+
+
+
+.nav-2 {
+    position: fixed;
+    display: inline-block;
+    background-color: black;
+    height: 4.375rem;
+    width: 100%;
+    
+    
+    z-index: 9999;
+}
+
+.nav-2 img {
+    margin-left: 1.625rem;
+    margin-top: 0.2375rem;
+    
+}
+
+.nav-2 ul li {
+    display: inline-block;
+    padding-right: 3.5625rem;
+    font-size: 0.9375rem;
+    
+}
+
+.nav-2 li a {
+    text-decoration: none;
+    color: white;
+    
+}
+.nav-2 ul {
+    margin-left: 14.75rem;
+    margin-top: -2.8375rem;
+}
+
+
+.section-one {
+    
+    background-image: url(images/universal\ hero.jpg);
+    background-position:center;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 70vh;
+    top: 4.375rem;
+    color: white;
+}
+.movie-name {
+    position: absolute;
+    top: 17rem;
+    left: 5.5rem;
+    line-height: 2.5rem;
+}
+
+.movie-name p {
+    font-size: 0.7rem;
+}
+
+#btn-action {
+    margin-top: 1rem;
+    color: white;
+    border: 0.5px solid white;
+    height: 2rem;
+    padding-left:5.1rem;
+    padding-bottom: 2.4rem;
+    padding-top: -5rem;
+    padding-right: 5.1rem;
+    font-weight: bold;
+}
+
+#argy {
+    font-weight: lighter;
+    font-size: 2.3rem;
+}
+
+.below {
+    top: 28.5rem;
+    position: relative;
+    padding-left: 1rem;
+    background: rgb(240,240,240);
+    text-align: center;
+    height: 2.5rem;
+    padding-top: 0.5rem;
+    z-index: -1;
+}
+.below li a{
+    color: rgb(97,137,206);
+    
+}
+
+.below li {
+    display: inline-block;
+    padding-right: 3rem;
+    font-weight: 500;
+    font-size: 0.8rem;
+}
+
+
+
+
+
+
+.section-two {
+    position: relative;
+    top: 4.4375rem;
+    
+    
+}
+#main-image {
+    width: 66.7%;
+    position: absolute;
+    top: 63.6%;
+}
+
+.epicly {
+    position: absolute;
+    /* background-color: black; */
+    height: 14.375rem;
+    top: 4rem;
+    left: 3rem;
+    width: 28.125rem;
+    color: black;
+    padding: 1.875rem;
+}
+
+.epicly h2 {
+    font-size: 2rem;
+    margin-top: 0.625rem;
+    font-weight: lighter;
+}
+
+
+
+#staff {
+    margin-top: 20px;
+}
+
+
+.jail-time {
+    position: absolute;
+    width: 22%;
+    left:2rem;
+    top:9rem;
+    height: 450px;
+    
+}
+
+.jail-time img {
+    width: 100%;
+}
+
+#news {
+    font-size: 10px;
+    margin-bottom: 15px;
+}
+
+.jail-area {
+    font-size: 0.6875rem;
+    margin-left: 3.125rem;
+    margin-top: 1.875rem;
+}
+
+.jail-area span {
+    color: rgb(67,172,231);
+}
+
+#universal {
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.jail-area h2 {
+    margin-top: 1rem;
+    margin-bottom: 0.625rem;
+    font-weight: 500;
+}
+
+.twooo {
+    left: 25%;
+}
+
+.threee {
+    left: 48%;
+}
+
+.fourr {
+    left: 71%;
+    top: 8rem;
+}
+
+.section-three {
+    position: relative;
+    top: 40.4em;
+    background: rgb(238,238,238);
+    height: 180vh;
+    padding-top: 3rem;
+}
+
+.section-three h1 {
+    font-weight: 400;
+    margin-bottom: 2rem;
+    margin-left: 4rem;
+}
+
+.section-three button {
+    background-color: rgb(39,118,206);
+    color: white;
+    padding: 1rem 3rem;
+    position: absolute;
+    top: 65rem;
+    left: 45%;
+    border: none;
+}
+
+.newss {
+    position: absolute;
+    
+}
+
+.newss img {
+    width: 100%;
+}
+
+.news-onee {
+    width: 43%;
+    left: 5%;
+}
+
+.news-two {
+    left: 50%;
+    width: 43%;
+}
+
+.news-three {
+    left: 66.7%;
+}
+
+.headline-area {
+    padding-top: 2.5rem;
+    
+    
+    height: 14.375rem;
+    margin-top: -0.25rem;
+}
+
+.headline-area h3{
+    font-weight: 500;
+}
+
+.three {
+    border-right: none;
+}
+
+#category {
+    text-decoration: underline;
+    margin-bottom: 1.25rem;
+    font-size: 0.8125rem;
+}
+
+#reporter {
+    font-size: 0.8125rem;
+    margin-top: 0.75rem;
+}
+
+#heading {
+    font-size: 0.7rem;
+    margin-top: -2rem;
+    color: rgb(142,173,211);
+}
+
+#video {
+    position: absolute;
+    top: -6rem;
+    font-weight: 200;
+    font-size: 2.2rem;
+}
+
+.vice-news {
+    position: relative;
+    color: black;
+    top: 82em;
+    left: 2em;
+    width: 100%;
+}
+.vice-news h1 {
+ font-size: 3.125rem;
+}
+
+.vice-news a {
+    color: black;
+}
+
+#latest {
+    position: absolute;
+    top: 30em;
+}
+.duplicate {
+    position: relative;
+    top: 32rem;
+    left: 4rem;
+    
+}
+
+.duplicate img {
+    height: 12.625rem;
+}
+
+.duplicate .newss {
+    width: 27%;
+}
+
+
+
+.news-twoo {
+    left: 30.4%;
+}
+
+.news-three {
+    left: 61%;
+}
+
+.section-new {
+    top: 50rem;
+}
+
+.section-neww {
+    top: 70rem;
+}
+
+
+.section-eight{
+    position: relative;
+    top: 88rem;
+    background: rgb(238,238,238);
+    height: 80vh;
+}
+
+.section-eight .epicly {
+    margin-top: -4rem;
+}
+
+.section-eight .jail-time {
+    width: 18%;
+    top: 5rem;
+}
+
+.section-eight .twooo {
+    left:20% ;
+}
+
+.section-eight .threee {
+    left: 38%;
+}
+
+.section-eight .fourr {
+    left: 56%;
+}
+
+.five {
+    left:74%;
+    top: 8em;
+}
+
+.section-eight .epicly {
+    width: fit-content;
+}
+
+.section-eight .epicly h2 {
+    font-size: 1.8rem;
+}
+
+.second-eight {
+    background: none;
+}
+
+
+.new-two {
+    top: 88rem;
+    background-color: rgb(67,172,231);
+    height: 120vh;
+}
+
+.new-two .epicly h2{
+    color: white;
+}
+
+.new-two .epicly {
+    top: 0;
+}
+
+.new-two .jail-time {
+    top: 8rem;
+width: 26%;
+color: white;
+font-weight: 500;
+}
+
+.new-two .twooo {
+    top: 8rem;
+    left: 23.9%;
+}
+
+.new-two .threee {
+    top: 8rem;
+    left: 44.9%;
+}
+
+.new-two .fourr {
+    top: 8rem;
+    left: 65.9%;
+}
+
+.new-three {
+    top: 90rem;
+    height: 100vh;
+    background: none;
+}
+
+.new-three .news-onee {
+    left: 5rem;
+    width: 41%;
+}
+
+.new-three .news-two {
+left: 49%;
+}
+
+.footer {
+    position: relative;
+    top: 75.2rem;
+    background-color: rgb(39,39,39);
+    color: white;
+    height: 40vh;
+}
+
+
+
+.footer ul {
+    position: absolute;
+    top:4rem;
+    color: white;
+    left: 20%;
+    
+
+}
+
+.footer .second-list {
+    top: 10rem;
+    left: 13%;
+}
+.footer li {
+    display: inline-block;
+    padding-right: 1.5625rem;
+    font-size: 0.8rem;
+    
+    
+    
+}
+
+
+
+.footer p{
+    position: absolute;
+    top: 30em;
+    left: 45%;
+    font-size: 11px;
+    
+}
+
+
+    
+
+
+
+
+
+ul .second-list {
+    position: absolute;
+    color: black;
+}
+
+
+
+
+@media (max-width:800px) {
+
+
+        html {
+            font-size: 63.5%;
+        }
+    .section-one {
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 43vh;
+    }
+.below {
+    top: 24.2rem;
+}
+
+.nav-2 ul li {
+    padding-right: 2.2rem;
+}
+
+.nav-2 img {
+    height: 4rem;
+    margin-left: 5rem;
+}
+
+.nav-2 ul {
+    margin-top: -3rem;
+    margin-left: 19rem;
+}
+
+.movie-name {
+    top: 5rem;
+    left: 5rem;
+}
+
+#btn-action {
+    padding-left: 3.1rem;
+    padding-right: 3.1rem;
+}
+
+#argy {
+    font-size: 1.7rem;
+}
+
+.epicly {
+    left: 4.6rem;
+}
+
+.section-three {
+    height: 130vh;
+    top: 44rem;
+}
+
+.new-two {
+    top: 86rem;
+    height: 80vh;
+}
+
+.new-three {
+    top: 90rem;
+    height: 40vh;
+}
+
+.section-eight {
+    height: 60vh;
+}
+
+.footer {
+    top: 90rem;
+    height: 30vh;
+    
+}
+}
+
+
+
+
+@media (max-width:500px) {
+    html {
+        font-size: 59.5%;
+    }
+
+    .nav-2 ul {
+        display:none ;
+    }
+
+    .below {
+        display: none;
+    }
+
+    .nav-2 img {
+        margin-left: 1rem;
+    }
+
+    .section-one {
+        background-image: url(images/hero\ mobile.jpg);
+    }
+
+    .movie-name {
+        top: 25rem;
+        background:rgb(39,39,39) ;
+        width: 100%;
+        left: 0;
+        height: 30vh;
+        padding-left: 1rem;
+        padding-top: 2rem;
+        
+    }
+
+    #btn-action {
+        width: 90%;
+        text-align: center;
+        
+        
+    }
+
+    .section-two {
+        top: 20rem;
+        left: -1.5rem;
+    }
+
+    .section-two .threee, .section-two .fourr {
+        display: block;
+    }
+
+    .section-three {
+        top: 83rem;
+        height: 263vh;
+        
+    }
+
+    .section-three button {
+        top: 148rem;
+        left: 30%;
+    }
+
+    .section-three .newss {
+        width: 80%;
+    }
+
+    .jail-time {
+        width: 40%;
+    }
+
+    .twooo {
+        left: 50%;
+    }
+
+    .threee {
+        top: 35rem;
+        left: 5%;
+    }
+    .fourr {
+        top: 34rem;
+        left: 50%;
+    }
+
+    .duplicate {
+        top: 55rem;
+    }
+
+    .news-onee, .news-one, .news-two, .news-twoo, .news-three {
+        left: 10%;
+    }
+
+       .duplicate .newss {
+            width: 80%;
+            left: 0;
+        }
+
+        .duplicate .news-one {
+            top: 4rem;
+        }
+        .duplicate .news-twoo {
+
+            top: 31rem;
+        }
+
+        .duplicate img {
+            height: 17rem;
+        }
+
+
+    .news-two {
+        top: 36rem;
+    }
+
+    .news-three {
+        top: 58rem;
+    }
+
+    .section-new, .section-neww {
+        top: 90rem;
+    }
+
+    .section-neww {
+        top: 170rem;
+    }
+
+    .section-eight {
+        top: 250rem;
+    }
+
+    .section-eight .twooo {
+        left: 50%;
+    }
+
+    .section-eight .epicly {
+        left: 3rem;
+    }
+     .threee, .fourr, .five {
+        display: none;
+    }
+
+    .section-eight .jail-time {
+        width: 40%;
+    }
+
+    .second-eight {
+        top: 250rem;
+    }
+
+    .new-two {
+        top: 250rem;
+        width: 100%;
+    }
+
+    .new-two .jail-time {
+        width: 40%;
+        left: 3.5rem;
+    }
+
+    .new-two .twooo {
+        left: 50%;
+    }
+
+    .new-three {
+        top: 250rem;
+        height: 80vh;
+    }
+
+    .new-three .news-onee {
+        left: 4.5rem;
+    }
+
+    .new-three .newss {
+        width: 76%;
+    }
+
+    .footer {
+        top: 250rem;
+    }
+
+    .new-three .news-two {
+        left: 4.5rem;
+        top: 23rem;
+    }
+}
